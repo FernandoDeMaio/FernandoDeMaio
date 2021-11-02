@@ -15,7 +15,7 @@ Creo en el desarrollo personal a través de la experiencia de asumir nuevos desa
 
     GesSalud
 
-<img align="left" width= "30%" src='./images/gs.PNG' /><img align="center" width= "30%" src='./images/gs.PNG' /><img align="right" width= "30%" src='./images/gs3.PNG' />
+<img align="left" width= "30%" src='./images/gs.PNG' /><img align="center" width= "30%" src='./images/gsa.PNG' /><img align="right" width= "30%" src='./images/gs3.PNG' />
 
     TiendaGame
 
