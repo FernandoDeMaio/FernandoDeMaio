@@ -25,7 +25,7 @@ Creo en el desarrollo personal a través de la experiencia de asumir nuevos desa
 
     Pokédex React - Front-end & Back-end App
 
-<img align="left" width= "30%" src='./images/Pokemon.PNG' /><img align="center" width= "30%" src='./images/Pokemon2.PNG' /><img align="right" width= "30%" src='./images/Pokemon3.PNG' />
+<img align="left" width= "30%" src='./images/Pokemon.PNG' /><img align="center" width= "30%" src='./images/POkemon2.PNG' /><img align="right" width= "30%" src='./images/Pokemon3.PNG' />
 
 \*\*
 
