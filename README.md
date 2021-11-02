@@ -12,11 +12,11 @@
 
     GesSalud
 
-<img align="left" width= "30%" src='./images/gs.png' /><img align="center" width= "30%" src='./images/gs.png' /><img align="right" width= "30%" src='./images/gs3.png' />
+<img align="left" width= "30%" src='./images/gs.PNG' /><img align="center" width= "30%" src='./images/gs.PNG' /><img align="right" width= "30%" src='./images/gs3.PNG' />
 
     TiendaGame
 
-<img align="left" width= "30%" src='./images/tiendagame1.png' /><img align="center" width= "30%" src='./images/tienda3.png' /><img align="right" width= "30%" src='./images/tiendagame2.png' />
+<img align="left" width= "30%" src='./images/tiendagame1.PNG' /><img align="center" width= "30%" src='./images/tienda3.PNG' /><img align="right" width= "30%" src='./images/tiendagame2.PNG' />
 
     Pokédex React - Front-end & Back-end App
 
